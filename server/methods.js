@@ -78,12 +78,3 @@ Meteor.methods({
         return {msg:'성공하였습니다'};
     }
 });
-
-transConfig = {
-
-    path : {
-         source : '/Users/ppillip/trans/src'
-        ,target : '/Users/ppillip/trans/trg'
-    }
-
-}
